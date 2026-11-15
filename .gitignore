@@ -1,0 +1,9 @@
+# 内部資料・実行ファイルは公開リポジトリに入れない
+*.log
+run.sh
+REPORT-*.md
+REVIEW-BRIEF.md
+review-*/
+image/make_poster*.py
+image/BRIEF-*.md
+image/*.ttf
